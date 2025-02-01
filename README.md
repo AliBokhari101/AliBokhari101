@@ -1,5 +1,24 @@
-# 💫 About Me:
- I'm a Computer Science student at Bahria University, Islamabad, passionate about solving real-world problems through code. 🚀<br><br>💻 I'm a C++ Developer with a strong foundation in data structures and algorithms, and I love building efficient, high-performance applications.<br>⚛️ I'm also a Certified React.js Developer, crafting dynamic, responsive, and user-friendly web interfaces with modern frontend technologies.<br><br># 💬 Ask Me About <br>- C++ Development 🖥️<br>- React.js & Frontend Development ⚛️<br>- Data Structures & Algorithms 📊<br>- GUI-based Desktop Applications 🗔<br>## 🚀 I’m Open To<br>- Internship Opportunities 🤝<br>- Freelance Projects 💼<br>I enjoy learning new tools, exploring creative tech solutions, and continuously leveling up my skills. Let's connect and collaborate on exciting projects! 🌟
+# 💫 Hi 👋🏻, I'm Ali!  
+
+💻 **Frontend React Developer** & **C++ Developer** Sharing My Projects  
+
+👨‍🎓 Studying **Computer Science** at **Bahria University, Islamabad, Pakistan**  
+
+👾 Completed an **Internship as a React Developer** at **Ucapacity**, a local startup  
+
+🎮 Enrolled in the **Google UX Design Course** to Broaden My Skillset  
+
+## 💬 Ask Me About  
+- C++ Development 🖥️  
+- React.js & Frontend Development ⚛️  
+- Data Structures & Algorithms 📊  
+- GUI-based Desktop Applications 🗔  
+
+## 🚀 I’m Open To  
+- **Internship Opportunities** 🤝  
+- **Freelance Projects** 💼  
+
+Let’s connect and collaborate on exciting projects! 🌟  
 
 
 ## 🌐 Socials:
