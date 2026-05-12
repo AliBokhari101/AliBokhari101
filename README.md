@@ -3,13 +3,11 @@
 💻 **Frontend React Developer** & **C++ Developer** Sharing My Projects  
 
 👨‍🎓 Studying **Computer Science** at **Bahria University, Islamabad, Pakistan**  
-
-👾 Completed an **Internship as a React Developer** at **Ucapacity**, a local startup  
-
+  
 🎮 Enrolled in the **Google UX Design Course** to Broaden My Skillset  
 
 ## 💬 Ask Me About  
-- C++ Development 🖥️  
+- C++, Python Development 🖥️  
 - React.js & Frontend Development ⚛️  
 - Data Structures & Algorithms 📊  
 - GUI-based Desktop Applications 🗔  
